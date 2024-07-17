@@ -1,0 +1,30 @@
+body {
+    background-image: url("../assets/background.jpg");
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    color: white;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+
+a:link, a:visited, a:focus, a:hover, a:active {
+    color: white;
+}
